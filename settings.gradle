@@ -1,0 +1,2 @@
+rootProject.name='ColorTrackTextView'
+include ':app'
